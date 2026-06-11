@@ -22,4 +22,5 @@ Upload your resume and get:
 ##Author
 Viraj Pathak
 ##Screenshot 
-![AI Resume Analyzer](screenshot.png)
+<img src="screenshot.png" width="800">
+
