@@ -20,4 +20,6 @@ Upload your resume and get:
 -Skill Detection
 -Improvement Suggestions
 ##Author
-Viraj Pathal
+Viraj Pathak
+##Screenshot 
+![AI Resume Analyzer](screenshot.png)
